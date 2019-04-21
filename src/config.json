@@ -1,0 +1,5 @@
+{
+  "apiUrl": "http://localhost:3900/api",
+  "sentryDsn": "https://b89e5ce9c83149859877dad5a3421ce6@sentry.io/1431322",
+  "tokenKey": "token"
+}
