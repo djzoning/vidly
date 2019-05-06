@@ -8,9 +8,6 @@ import "font-awesome/css/font-awesome.css";
 import { BrowserRouter } from "react-router-dom";
 import logger from "./services/logService";
 
-console.log("process.env.REACT_APP_PORT", process.env.REACT_APP_PORT);
-console.log("process.env.REACT_APP_NAME", process.env.REACT_APP_NAME);
-
 logger.init();
 
 ReactDOM.render(
